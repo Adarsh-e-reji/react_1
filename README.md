@@ -14,3 +14,8 @@ A small static brand page built with React. This project is simple, clean, and s
 - **React** - JavaScript library for building user interfaces.
 - **HTML5** - For structuring the page.
 - **CSS3** - For styling the page and layout.
+
+## Screenshot of Webpage
+
+![Screenshot 2024-11-14 122903](https://github.com/user-attachments/assets/cc0e4fb8-dd88-4d3f-9470-9c8e4926c4b6)
+
